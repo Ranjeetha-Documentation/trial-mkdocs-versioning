@@ -7,8 +7,10 @@ plugins:
   - git-revision-date-localized:
       type: datetime
   - mkdocs-versioning:
-      version: 0.4.0
+      version: 0.5.0
       exclude_from_nav: ["images"]
+      version_selection.md: .version_selection.md
+      # version_selector_title: "Trial"
 
 # Repository
 repo_name: "mkdocs-versioning"

@@ -50,3 +50,5 @@ Now when you want to build a new version, simply change the value of `version` (
 
 ???+ Info
     This is just a basic working example, there is more functionality built into the docs such as a having a custom version selection page so it is recommended to read through the entire [details section](reference/index.md) to get a full understanding of how the plugin works in order to take full advantage of the versioning capabilities.
+
+    * Adding 0.5.0 version
